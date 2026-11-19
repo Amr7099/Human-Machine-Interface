@@ -1,0 +1,12 @@
+﻿Part,Description,Quantity,Manufacturer,Part Number,Datasheet,Price (EGP),Total Price (EGP)
+AVR Controller,ATmega328P,1,Atmel,ATmega328P,https://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-7810-Automotive-Microcontrollers-ATmega328P_Datasheet.pdf,220,220
+Crystal Oscillator,16MHz,1,,,,16,16
+Capacitors,"10uF, 16V",2,,,,2,4
+Resistor,1k Ohm,2,,,,0.50,1
+Button,4-pin Push Button ,2,,,,1.75,3.5
+Jumper Wires,Male-to-Male,22,,,,1.00,22
+Lcd,Character LCD 2x16 Green 1602,1,,,,65.00,65
+Temperature sensor,LM35DZ,1,,,https://u.pcloud.link/publink/show?code=XZm0x00ZOCjXBRTKrB52Ucebx5aJnkDbL2xy#/login,70.00,70
+Potentiometer,1k Ohm,1,,,,6.00,6
+breadboard,PCB 9x7 cm2 Dots Holes,1,,,,12.5,12.5
+,,,,,,Total=,420
