@@ -55,4 +55,4 @@ Test cases are documented in plain English using a Robot Framework-style test ca
 
 ## 6. Design
 
-[Project Design Document](./design/design.md)
+[Project Design Document](./design/project_design_tpl.md)
