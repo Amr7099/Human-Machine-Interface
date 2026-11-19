@@ -16,7 +16,7 @@ The project uses native C programming and direct AVR register manipulation witho
 
 **GitHub Repository:**
 
-[GitHub Repository URL](YOUR_GITHUB_REPOSITORY_URL)
+[GitHub Repository URL](https://github.com/Amr7099/Human-Machine-Interface.git)
 
 **Local Root Directory:**
 
